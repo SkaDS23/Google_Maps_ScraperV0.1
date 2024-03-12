@@ -13,7 +13,7 @@ Create a fresh virtual environnement and activate it:
    python3 -m venv venv
    ```
 
-* Acrivating Venv for Mac OS:
+* Activating Venv for Mac OS:
    ```bash
    source venv/bin/activate
    ```
