@@ -5,7 +5,7 @@
 
 Create a new directory and open terminal or CMD in that directory
 
-Create a fresh virtual environnement and acrivate it:
+Create a fresh virtual environnement and activate it:
 
 * Mac OS and Windows:
    ```bash
