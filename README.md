@@ -40,9 +40,9 @@ Clone Git repo :
 
 Moving to source directory:
 
-    ``` bash
-    cd src
-    ```
+    ```bash
+   cd src
+   ```
 
 Setup the queries.py file (your search queries in google maps as a list)
 
