@@ -3,16 +3,28 @@
 
  ### Get Started (Install)
 
-Create a fresh virtual environnement :
+Create a fresh virtual environnement and acrivate it:
 
-* Mac OS :
+* Mac OS and Windows:
    ```bash
    # Assuming the 2nd venv is your virtual environnement's name
    python3 -m venv venv
    ```
 
-* Windows :
+* Acrivating Venv for Mac OS:
    ```bash
-   # Assuming the 2nd venv is your virtual environnement's name
-   python3 -m venv venv
+   source venv/bin/activate
    ```
+
+* Activating Venv for Winsows:
+   ```bash
+   venv\Scripts\activate
+   ```
+
+### Install Dependencies : 
+
+* Activating Venv for Winsows:
+   ```bash
+   pip install requirements.txt
+   ```
+
