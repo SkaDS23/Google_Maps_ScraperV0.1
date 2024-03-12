@@ -18,7 +18,7 @@ Create a fresh virtual environnement and activate it:
    source venv/bin/activate
    ```
 
-* Activating Venv for Winsows:
+* Activating Venv for Windows:
    ```bash
    venv\Scripts\activate
    ```
@@ -38,8 +38,7 @@ Clone Git repo :
 
 ### Running the app
 
-Moving to source directory:
-
+* Moving to source directory:
     ```bash
    cd src
    ```
