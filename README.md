@@ -39,7 +39,8 @@ Clone Git repo :
 ### Running the app
 
 Moving to source directory:
-    ```bash
+
+    ``` bash
     cd src
     ```
 
