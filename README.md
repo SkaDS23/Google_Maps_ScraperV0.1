@@ -38,5 +38,19 @@ Clone Git repo :
 
 ### Running the app : 
 
+    Moving to source directory
+   ```bash
+   cd src
+   ```
 
+   Setup the queries.py file (your search queries in google maps as a list)
+
+    * Run App (script.py):
+   ```bash
+   python3 script.py
+   ```
+
+   After finished scraping, you'll find a csv file in the main directory for each query.
+
+### Enjoy !!
 
