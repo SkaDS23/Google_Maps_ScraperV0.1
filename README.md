@@ -3,6 +3,8 @@
 
  ### Get Started (Install)
 
+Create a new directory and open terminal or CMD in that directory
+
 Create a fresh virtual environnement and acrivate it:
 
 * Mac OS and Windows:
@@ -21,10 +23,20 @@ Create a fresh virtual environnement and acrivate it:
    venv\Scripts\activate
    ```
 
-### Install Dependencies : 
+Clone Git repo :
 
-* Activating Venv for Winsows:
    ```bash
+   git clone https://github.com/SkaDS23/Google_Maps_ScraperV0.1.git
+
+   # Move to main branch
+   cd "Google_Maps_ScraperV0.1"
+
+   #Install dependencies 
    pip install requirements.txt
    ```
+
+
+### Running the app : 
+
+
 
